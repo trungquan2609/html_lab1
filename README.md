@@ -12,7 +12,7 @@
 ### Yêu cầu
 1. Tạo project trên VS Code và  lên github với tên html_lab1
 2. Tạo các thư mục chứa các hình ảnh và các tài liệu để thực hành điều hướng và thực hànhsử dụng các phần tử cơ bản
-3. Cập nhật tài liệu README.md để trình bày nội dung và các kết quả
+3. Cập nhật tài liệu README.md để trình bày nội dung và các kết quả.
 
 ### Tài liệu tham khảo
 
